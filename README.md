@@ -25,4 +25,8 @@ Put the following line in your .bash_profile so you don't have to set it every t
 
 	export CODAPATH="/Applications/Coda 2.app"
   
+## Alternatives
+
+[coda-cli](http://justinhileman.info/coda-cli/) has more features than this simple script. Check it out!
+
 Written by [Aditya Bhargava](http://adit.io). No warranty is implied, use at your own risk.
